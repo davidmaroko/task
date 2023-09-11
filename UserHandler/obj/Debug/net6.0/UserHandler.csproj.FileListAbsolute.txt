@@ -1,0 +1,17 @@
+C:\Users\dmaro\source\repos\UserApi\UserHandler\bin\Debug\net6.0\UserHandler.deps.json
+C:\Users\dmaro\source\repos\UserApi\UserHandler\bin\Debug\net6.0\UserHandler.dll
+C:\Users\dmaro\source\repos\UserApi\UserHandler\bin\Debug\net6.0\UserHandler.pdb
+C:\Users\dmaro\source\repos\UserApi\UserHandler\bin\Debug\net6.0\Entities.dll
+C:\Users\dmaro\source\repos\UserApi\UserHandler\bin\Debug\net6.0\Storage.dll
+C:\Users\dmaro\source\repos\UserApi\UserHandler\bin\Debug\net6.0\Entities.pdb
+C:\Users\dmaro\source\repos\UserApi\UserHandler\bin\Debug\net6.0\Storage.pdb
+C:\Users\dmaro\source\repos\UserApi\UserHandler\obj\Debug\net6.0\UserHandler.csproj.AssemblyReference.cache
+C:\Users\dmaro\source\repos\UserApi\UserHandler\obj\Debug\net6.0\UserHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmaro\source\repos\UserApi\UserHandler\obj\Debug\net6.0\UserHandler.AssemblyInfoInputs.cache
+C:\Users\dmaro\source\repos\UserApi\UserHandler\obj\Debug\net6.0\UserHandler.AssemblyInfo.cs
+C:\Users\dmaro\source\repos\UserApi\UserHandler\obj\Debug\net6.0\UserHandler.csproj.CoreCompileInputs.cache
+C:\Users\dmaro\source\repos\UserApi\UserHandler\obj\Debug\net6.0\UserHandler.csproj.CopyComplete
+C:\Users\dmaro\source\repos\UserApi\UserHandler\obj\Debug\net6.0\UserHandler.dll
+C:\Users\dmaro\source\repos\UserApi\UserHandler\obj\Debug\net6.0\refint\UserHandler.dll
+C:\Users\dmaro\source\repos\UserApi\UserHandler\obj\Debug\net6.0\UserHandler.pdb
+C:\Users\dmaro\source\repos\UserApi\UserHandler\obj\Debug\net6.0\ref\UserHandler.dll

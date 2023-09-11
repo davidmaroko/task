@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "42ECjCeFqG1y31Btfpoq4S3oSIpEk8XKihf1zaLDrs0aX5TQCVj9uCicpA8MOBpiw6z2SCREpFxyJU2hRUxuQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dmaro\\source\\repos\\UserApi\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmaro\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\dmaro\source\repos\UserApi\Storage\bin\Debug\net6.0\Storage.deps.json
+C:\Users\dmaro\source\repos\UserApi\Storage\bin\Debug\net6.0\Storage.dll
+C:\Users\dmaro\source\repos\UserApi\Storage\bin\Debug\net6.0\Storage.pdb
+C:\Users\dmaro\source\repos\UserApi\Storage\obj\Debug\net6.0\Storage.csproj.AssemblyReference.cache
+C:\Users\dmaro\source\repos\UserApi\Storage\obj\Debug\net6.0\Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmaro\source\repos\UserApi\Storage\obj\Debug\net6.0\Storage.AssemblyInfoInputs.cache
+C:\Users\dmaro\source\repos\UserApi\Storage\obj\Debug\net6.0\Storage.AssemblyInfo.cs
+C:\Users\dmaro\source\repos\UserApi\Storage\obj\Debug\net6.0\Storage.csproj.CoreCompileInputs.cache
+C:\Users\dmaro\source\repos\UserApi\Storage\obj\Debug\net6.0\Storage.dll
+C:\Users\dmaro\source\repos\UserApi\Storage\obj\Debug\net6.0\refint\Storage.dll
+C:\Users\dmaro\source\repos\UserApi\Storage\obj\Debug\net6.0\Storage.pdb
+C:\Users\dmaro\source\repos\UserApi\Storage\obj\Debug\net6.0\ref\Storage.dll
